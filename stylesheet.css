@@ -79,6 +79,7 @@ footer {
   .step-box {
     width: 90%;
     margin-top: 20px;
+    text-align: center;
   }
 
   .step-img {
